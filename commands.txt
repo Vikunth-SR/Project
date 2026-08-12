@@ -1,5 +1,9 @@
 # Git Commands
 
+0. Initialize new repository
+
+git init
+
 1. clone a repository
 
   git clone <repo url>
@@ -46,6 +50,3 @@ git switch <branch name>
 
 git branches
 
-12. Initialize new repository
-
-git init
