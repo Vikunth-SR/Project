@@ -21,3 +21,31 @@
 5. push all local changes to live git
 
 git push origin <branch name>
+
+6. combine histories together
+
+git merge <branch-name-to-bring-in>
+
+7. Updates and merge them locally
+
+git pull oringin <branch name>
+
+8. Temporarily shelves uncommited work
+
+git stash
+
+9.reviwes commit histories
+
+git log
+
+10. switch between branches
+
+git switch <branch name>
+
+11. Manages and lists text branches
+
+git branches
+
+12. Initialize new repository
+
+git init
