@@ -14,4 +14,10 @@
 
   git add command.md
 
-  
+4. commit all changes to local git repo
+
+ git commit -m"some info"
+
+5. push all local changes to live git
+
+git push origin <branch name>
