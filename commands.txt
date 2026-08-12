@@ -56,4 +56,4 @@ git checkout
 
 14. To delete a branch
 
-git branch -d"Branch name>
+git branch -d"<Branch name>
