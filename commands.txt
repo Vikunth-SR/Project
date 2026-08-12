@@ -1,52 +1,59 @@
 # Git Commands
 
-0. Initialize new repository
+1. Initialize new repository
 
 git init
 
-1. clone a repository
+2. clone a repository
 
   git clone <repo url>
 
-2. check status
+3. check status
 
   git status
 
-3. add all modifications to stage  
+4. add all modifications to stage  
 
   git add .
 
   git add command.md
 
-4. commit all changes to local git repo
+5. commit all changes to local git repo
 
  git commit -m"some info"
 
-5. push all local changes to live git
+6. push all local changes to live git
 
 git push origin <branch name>
 
-6. combine histories together
+7. combine histories together
 
 git merge <branch-name-to-bring-in>
 
-7. Updates and merge them locally
+8. Updates and merge them locally
 
-git pull oringin <branch name>
+git pull origin <branch name>
 
-8. Temporarily shelves uncommited work
+9. Temporarily shelves uncommitted work
 
 git stash
 
-9.reviwes commit histories
+10. reviews commit histories
 
 git log
 
-10. switch between branches
+11. switch between branches
 
 git switch <branch name>
 
-11. Manages and lists text branches
+12. Manages and lists text branches
 
 git branches
 
+13. To create new branch
+
+git checkout
+
+14. To delete a branch
+
+git branch -d"Branch name>
