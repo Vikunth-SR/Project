@@ -9,3 +9,9 @@
   git status
 
 3. add all modifications to stage  
+
+  git add .
+
+  git add command.md
+
+  
